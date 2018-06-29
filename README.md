@@ -1,6 +1,6 @@
 ## Getting Started
 
-* Linux rename-multiple-files
+* Linux rename-multiple-files in python
 
 ### Prerequisites
 
@@ -8,7 +8,6 @@
 
 ## Usage example
 
-* Rename multiple files with same name in python
 * Put this file in the directory index
 
 ## Built With
