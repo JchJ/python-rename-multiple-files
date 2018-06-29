@@ -8,7 +8,8 @@ Python
 
 ## Usage example
 
-Rename multiple files with same name index in python
+Rename multiple files with same name in python
+Put this file in the directory index
 
 ## Built With
 
