@@ -15,7 +15,7 @@ Rename multiple files with same name index in python
 * [Sublime](https://www.sublimetext.com/) - The text editor used
 
 ## Author
-* Juan Carlo(https://www.facebook.com/juanjunger)
+* Juan Carlo(https://www.facebook.com/juancarlo.junger)
 
 ## Acknowledgments
 
