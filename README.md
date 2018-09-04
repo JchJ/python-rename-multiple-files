@@ -15,7 +15,7 @@
 * [Sublime](https://www.sublimetext.com/) - The text editor used
 
 ## Author
-* Juan Carlo(https://www.facebook.com/juancarlo.junger)
+* [Juan Carlo](https://www.facebook.com/juancarlo.junger)
 
 ## Acknowledgments
 
