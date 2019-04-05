@@ -1,5 +1,5 @@
 ## Getting Started
-* Linux rename-multiple-files in python
+* Python rename-multiple-files in python
 
 ### Prerequisites
 * Python
